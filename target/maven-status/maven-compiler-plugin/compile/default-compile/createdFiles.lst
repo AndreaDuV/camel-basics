@@ -1,0 +1,5 @@
+org\apache\camel\learn\MyRouteBuilder.class
+org\apache\camel\process\SetDataExchangeProcessor.class
+org\apache\camel\process\ProcessDataExchangeProcessor.class
+org\apache\camel\learn\MainApp.class
+org\apache\camel\pojos\Person.class
